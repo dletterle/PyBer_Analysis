@@ -13,7 +13,8 @@ Using the Pandas groupby() function, count() function, and sum() function method
 
 To graph these results, the object-oriented interface method, the df.plot method, and the the Matplotlib "fivethirtyeight" graph style were used.
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/99268646/159078858-e4ae62aa-e100-4236-8d11-b58d5ac3847b.png)
+<img width="653" alt="Total Fares by City Type" src="https://user-images.githubusercontent.com/99268646/159079695-5ca86434-9436-49eb-b5af-6152ca835948.png">
+
 
 **Summary**
 
