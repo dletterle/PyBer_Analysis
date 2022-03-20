@@ -26,11 +26,11 @@ In summary, when looking at the graphs and charts created in the analysis, Urban
 <img width="574" alt="Growth Matrix" src="https://user-images.githubusercontent.com/99268646/159168625-93a97873-4705-4588-bebc-bd5fa2ac634f.png">
 
 
-*   First Recommendation:  
+*   Urban Areas (Recommendation 1):  
     *    The first recommendation is to focus on maintaining the largest sector of PyBer income, the Urban areas. By definition, Urban areas are more densely populated areas of many people allowing for ride sharing to convenient and often times the preferred method of transportation. It makes sense for these areas to create the largest source of income for PyBer. These areas should be viewed as "Stars". These settings have "high-growth" and "high-share" values meaning companies should significantly invest because they have high future potential. 
-*   Second Recommendation:
+*   Sub-urban Areas (Recommendation 2):
     *    The second recommendation is to "watch" opportunities in Suburban areas. Suburaban areas are viewed as "Question Marks" meaning they have "high-growth" and "low-share" value. In these instances, companies should invest or discard depending on the liklihood of these areas becomming "Stars". For example, in Ohio (and all over the country) there are some sub-urban areas that are gowing rapidly and others that are declining with people moving in or out. So after analysis to review those sub-urban areas that are growing rapidly PyBer should invest and other sub-urban areas that are declining PyBer should discard their resources. 
-*   Third Recommendation: 
+*   Rural Areas (Recommendation 3): 
     *    The third recommendation is to divest the lack of opportunity in Rural areas. Again by definition, rural areas are areas of low population density with the majority of the population living distinct distances from one another and ride sharing is not convenient or a preferred method of transportation. Rural areas are viewed as "Pets" they have "low-share" and "low-growth" value and it is recommended to liquidate or divest in areas like this. The resources and money spent in rural areas could be used to better grow the company in Urban or Sub-urban areas. 
     
 
